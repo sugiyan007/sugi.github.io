@@ -1,0 +1,31 @@
+<svg id="ranking_ranking_1_badge.svg" data-name="ranking/ranking_1_badge.svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.719" height="40.84" viewBox="0 0 37.719 40.84">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ee9c70;
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <filter id="filter" x="838.469" y="1953" width="36.719" height="39.84" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#c9a410"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-837.969 -1952.5)" style="fill: #ee9c70; filter: url(#filter)">
+    <path id="award-fill" class="cls-1" d="M856.819,1953l5.371,2.87,5.979,0.93,2.709,5.58,4.3,4.38-0.985,6.16,0.985,6.16-4.3,4.38-2.709,5.58-5.979.93-5.371,2.87-5.371-2.87-5.979-.93-2.71-5.58-4.3-4.38,0.985-6.16-0.985-6.16,4.3-4.38,2.71-5.58,5.979-.93Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-837.969 -1952.5)" xlink:href="#award-fill" style="stroke: #fff; filter: none; fill: none"/>
+  <path id="_1" data-name="1" class="cls-2" d="M851.935,1970.28a36.036,36.036,0,0,0,3.724-1.14,33.116,33.116,0,0,0,3.5-1.54l0.056,0.05-7.812,12.07q2.912-.09,5.8-0.34l0.112-.19-2.66.14c0.653-1.14,1.353-2.32,2.1-3.53s1.507-2.44,2.282-3.67,1.558-2.47,2.352-3.71,1.563-2.46,2.31-3.65l-0.2-.17a37.107,37.107,0,0,1-5.516,3.29,28.128,28.128,0,0,1-6.132,2.14Z" transform="translate(-837.969 -1952.5)"/>
+</svg>
